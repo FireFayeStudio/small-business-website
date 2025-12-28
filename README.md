@@ -48,6 +48,9 @@ The client requested a website that meets the following criteria:
 * Accessible form inputs and labels
 * JavaScript used for basic interactivity and form validation
 
+## Design Documentation
+- [Design Specification](docs/DESIGN-SPEC.md)
+
 ---
 
 ## 🛠️ Technologies Used
